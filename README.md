@@ -31,8 +31,8 @@ The project incorporates various Angular concepts and best practices:
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-repo/e-commerce-website.git`
-2. Navigate to the project directory: `cd e-commerce-website`
+1. Clone the repository: `git clone https://github.com/HiiRok/Store-in-angular-stripe.git`
+2. Navigate to the project directory: `cd Store-in-angular-stripe`
 3. Install dependencies: `npm install`
 4. Start the development server: `ng serve`
 5. Open your browser and visit `http://localhost:4200`
